@@ -1,0 +1,1 @@
+As we can not provide the MIMIC-III and MIMIC-IV datasets, you must acquire the data yourself from https://mimic.physionet.org/. Please reference https://github.com/sunlabuiuc/PyHealth for more details about data preparation and put the processed data into this folder.
